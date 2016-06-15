@@ -46,7 +46,7 @@
 				        data-transform_in="o:0" 
 				        data-transform_out="o:0" 
 				        data-start="500">
-						 <br>Welcome to JKUAT
+						 <br>Welcome to Stamford 
                                                  <br>Online Catalog
                                      
 				    </div>
@@ -125,7 +125,7 @@
 				<div class="row">
 					<div  class="col-lg-5 col-md-12 col-sm-12 col-xs-12 testimonial_container">
 						<div class="sec-title">
-							<h2>JKUAT Online Catalog</h2>
+							<h2>Stamford Online Library</h2>
 						</div>
 						<div id="owl">
 							<div>
