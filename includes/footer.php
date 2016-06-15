@@ -10,7 +10,7 @@
 			</div> <!-- End top_footer -->
 			<div class="bottom_footer container-fluid">
 				<div class="container">
-					<p class="float_left">Copyright &copy; JKUAT Karen Online Catalog 2016. All rights reserved. </p>
+					<p class="float_left">Copyright &copy; Stamford  Online Library 2016. All rights reserved by Rupa Hasna. </p>
 					
 				</div>
 			</div> <!-- End bottom_footer -->
