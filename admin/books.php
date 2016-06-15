@@ -1,6 +1,6 @@
 <?php include('includes/header.php'); ?>
-<?php include('includes/session.php'); ?>
-<?php include('includes/navbar_books.php'); ?>
+<?php  include('includes/session.php'); ?>
+<?php   include('includes/navbar_books.php'); ?>
     <div class="container">
 		<div class="margin-top">
 			<div class="row">	
